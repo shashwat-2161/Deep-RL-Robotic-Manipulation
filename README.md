@@ -12,7 +12,7 @@ To solve the sparse-reward "Pick and Place" task, **Hindsight Experience Replay 
 * **Convergence:** ~200k steps
 * **Behavior:** The agent learned to smoothly coordinate 7 joints to grasp, lift, and place a dynamic object.
 
-![Demo](videos\rl-video-episode-21.mp4)
+![Demo](videos/rl-video-episode-21.mp4)
 
 ## 🧠 Methodology
 
